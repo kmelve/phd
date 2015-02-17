@@ -33,6 +33,7 @@ Jeg forsker på hvordan spiritualitetsbegrepet har utviklet seg i Norge de siste
 -   [Sublime Text 3][6593-0006]
 -   [pandoc][6593-0007]
 -   [Scrivener][6593-0008]
+-   [doing][3388-0004]: Jeg bruker `doing` i `terminal.app` til å logge hva jeg holder på med i en enkel tekstfil. Den logger i tillegg git-commits.
 
 [6593-0001]: https://www.retriever-info.com/services/archive.html
 [6593-0002]: http://jekyll-hyde/nbgraph
@@ -42,23 +43,4 @@ Jeg forsker på hvordan spiritualitetsbegrepet har utviklet seg i Norge de siste
 [6593-0006]: http://www.sublimetext.com/3
 [6593-0007]: http://johnmacfarlane.net/pandoc/
 [6593-0008]: http://www.literatureandlatte.com/scrivener.php
-
-
-<!-- Report:
-(2:4:19): [Atekst](!g Atekst) => https://www.retriever-info.com/services/archive.html
-(3:4:20): [NBgraph](!g NBgraph) => http://sccn.ucsd.edu/eeglab/locatefile.php?file=pop_topoplot.m
-(4:4:21): [NBsearch](!g NBsearch) => http://search.cpan.org/~gaas/Net-HTTP-6.06/lib/Net/HTTP/NB.pm
-(5:4:19): [Python](!g Python) => https://www.python.org/
-(6:4:14): [R](!g R) => http://www.r-project.org/
-(7:4:27): [Sublime Text 3](!g Sublime Text 3) => http://www.sublimetext.com/3
-(8:4:19): [pandoc](!g pandoc) => http://johnmacfarlane.net/pandoc/
-(9:4:22): [Scrivener](!g scrivener) => http://www.literatureandlatte.com/scrivener.php
-(): Processed: 9 links, 0 errors.
--->
-
-
-<!-- Report:
-(2:133:16): [git](!g git) => http://git-scm.com/
-(2:153:26): [multimarkdown](!g multimarkdown) => http://fletcherpenney.net/multimarkdown/
-(): Processed: 3 links, 0 errors.
--->
+[3388-0004]: http://brettterpstra.com/projects/doing/
