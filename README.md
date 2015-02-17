@@ -22,6 +22,12 @@ Alt du finner i denne repository'en er under arbeid. Det betyr at du åpenbart i
 
 Jeg forsker på hvordan spiritualitetsbegrepet har utviklet seg i Norge de siste par hundre årene. I prosjektet bruker jeg et stort utvalg digitaliserte kilder, fra aviser, oppslagsverk og andre bøker til å belyse hvordan bruken av ord som spirituell, spiritualitet, ånd, åndelig og åndelig endrer seg. Jeg forsøker også vise hvorfor denne endringer skjer, og diskutere hvordan dette må tas i betraktning i faglige diskusjoner om spiritualitetsbegrepet.
 
+## Formalia
+
+-   `{@TODO: Referanse|Undersøk|Utbroder}`
+-   Multimarkdown fotnoter med unike IDer
+-   Pandoc referanser (generert fra [Papers][3388-0005]): `[@Smith 1984cf]`
+
 ## Ressurser
 
 -   [Nasjonalbiblioteket](http://nb.no)
@@ -44,3 +50,4 @@ Jeg forsker på hvordan spiritualitetsbegrepet har utviklet seg i Norge de siste
 [6593-0007]: http://johnmacfarlane.net/pandoc/
 [6593-0008]: http://www.literatureandlatte.com/scrivener.php
 [3388-0004]: http://brettterpstra.com/projects/doing/
+[3388-0005]: http://www.papersapp.com/mac/
